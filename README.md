@@ -1,6 +1,9 @@
+## YOUNKAP NINA Duplex
+
+I am ATCO with  Computer science engineer [ALL GRANT](http://techleaders.eg/aal/tracks/)
 ### Hi there 👋
 
-I am ATCO and Computer science engineer
+
 <!--
 **YOUNKAP/YOUNKAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
