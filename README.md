@@ -16,7 +16,7 @@ Currently, I am working on software applications for aeronautical/geospatial dat
 - Air Traffic Controller (2019)
 - Master of Enginering in computer Science (2018)
 - Bachelor of Science in Mathematic(2015)
-- Baschelor of Engineering in computer Science  (2014)
+- Bachelor of Engineering in computer Science  (2014)
 - Technician in civil aviation(2011)
 <!--
 **YOUNKAP/YOUNKAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
