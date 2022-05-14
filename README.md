@@ -9,10 +9,12 @@ Currently, I am working on software applications for aeronautical/geospatial dat
 - Automation/Data Integration using : Bash Script, PyQGIS, FME Desktop.
 - Programming : Python, C/C++
 - Web technologies : HTML, CSS, JavaScript, Django/GeoDjango, PostgreSQL/postGIS, Folium, Leaftlet.
-- AI/ML model development using : Pytorch, Natural Language Processing (NLP) and Computer Vision (CV).
+- AI/ML model development using : Pytorch, TensorFlow, Natural Language Processing (NLP) and Computer Vision (CV).
 - Working experience in Air Traffic Management (ATM) and Aeronautical Information Management(AIM).
 
 ## Education
+- Advanced Training Course in Meteorological Instrumentation, Communication and Information System (2022)
+- Machine Learning Engineer (2022)
 - Air Traffic Controller (2019)
 - Master of Enginering in computer Science (2018)
 - Bachelor of Science in Mathematic(2015)
