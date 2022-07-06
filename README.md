@@ -1,8 +1,8 @@
 ## ABOUUT ME
 
 Hi, I am Duplex, Air Traffic Controller and Computer Engineer with a solid background in data analysis, machine learning, geospatial data analysis, remote sensing and Geographic Information Systems (GIS).
-Aviation professional with passion for geospatial software developpement and machine learning.
-Currently, I am working on software applications for aeronautical/geospatial data analysis and publishing using open source technologies and python programming.
+Aviation professional with passion for geospatial data analysis and machine learning,
+I am currently working as Independent Researcher on applying machine learning algorithms to satellite imagery for agriculture applications and reforestation.
 
 ## Technical Expertise :
 - Survey /LIDAR data analysis and management using GIS applications : QGIS, ESRI's ArcDesktop, gvSIG Desktop.
