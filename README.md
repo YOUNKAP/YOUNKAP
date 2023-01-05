@@ -20,7 +20,7 @@ I am currently looking for a role that combines my passion  for aeronautical eng
 - Working experience in Air Traffic Management (ATM) and Aeronautical Information Management(AIM)
 
 ## Education
-- Advanced Training Course in Meteorological Instrumentation, Communication & Information System (2022)
+- Meteorological Instrumentation & Information System | India Meteorological Deparment (IMD) &  WMO | 201-2022
 - Machine Learning Engineer (2022)
 - Air Traffic Controller (2019)
 - Master of Enginering in computer Science (2018)
