@@ -20,13 +20,14 @@ I am currently looking for a role that combines my passion  for aeronautical eng
 - Working experience in Air Traffic Management (ATM) and Aeronautical Information Management(AIM)
 
 ## Education
-- Meteorological Instrumentation & Information System | India Meteorological Deparment (IMD) &  WMO | 201-2022
-- Machine Learning Engineer (2022)
-- Air Traffic Controller (2019)
-- Master of Enginering in computer Science (2018)
-- Bachelor of Science in Mathematic(2015)
-- Bachelor of Engineering in computer Science  (2014)
-- Technician in civil aviation(2011)
+- Essentials of Management | UK Met Office & World Meteorological Organisation (WMO) | 2022-2023
+- Meteorological Instrumentation & Information Systems Engineer | India Meteorological Deparment (IMD) &  WMO | 2021-2022
+- Machine Learning Engineer | Udacity |  2021 - 2022
+- Air Traffic Controller | East African School of Aviation of Nairobi (EASA), Kenya | 2019 -2021
+- Master of Enginering in computer Science | National Advanced School of Engineering, Cameroon | 2016-2018
+- Bachelor of Science in Mathematics | Faculty of Science, University of Maroua, Cameroon | 2014-2015
+- Bachelor of Engineering in computer Science  | National Advanced School of Engineering, Cameroon | 2013-2014
+- Technician in civil aviation | African School of Meteorology and Civil Aviation of Niamey, Niger | 2010 -2011 
 
 <!--
 **YOUNKAP/YOUNKAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
