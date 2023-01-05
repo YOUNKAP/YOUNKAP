@@ -1,7 +1,7 @@
 ## ABOUT ME
 
 Hi my name is Duplex.
-I work at Omdena as Lead Machine Learning Engineer and Geospatial Data Scientist. I am Part of Omdena's top 2% Top Talent working on GeoInformatic projects with Partners in Japan, Australia and Madagascar.
+I am Geospatial Data Scientist and Aeronautical Engineer. I am Part of Omdena's top 2% Top Talent working on GeoInformatic projects with Partners in Japan, Australia and Madagascar.
 
 I focus on applying Machine Learning algorithms on satellite imagery for agriculture, reforestation, weather and climate.
 
