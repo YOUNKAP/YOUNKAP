@@ -21,7 +21,7 @@ I am currently looking for a role that combines my passion  for aeronautical eng
 
 ## Education
 - Essentials of Management | UK Met Office & World Meteorological Organisation (WMO) | 2022-2023
-- Meteorological Instrumentation & Information Systems Engineer | India Meteorological Deparment (IMD) &  WMO | 2021-2022
+- Meteorological Instrumentation & Information Systems Engineer | India Meteorological Deparment (IMD) &  WMO|2021-2022
 - Machine Learning Engineer | Udacity |  2021 - 2022
 - Air Traffic Controller | East African School of Aviation of Nairobi (EASA), Kenya | 2019 -2021
 - Master of Enginering in computer Science | National Advanced School of Engineering, Cameroon | 2016-2018
