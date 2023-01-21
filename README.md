@@ -1,14 +1,6 @@
 ## ABOUT ME
 
-Hi my name is Duplex.
-I am a Geospatial Data Scientist and Aeronautical Engineer. I am Part of Omdena's top 2% Top Talent working on GeoInformatic projects with Partners in Japan, Australia and Madagascar.
-
-I focus on applying Machine Learning algorithms on satellite imagery for agriculture, forestry, weather and climate applications.
-
-Prior to Omdena, I am an Air Traffic Controller Officer at Cameroon Civil Aviation Authority where I provide instruction, authorisation, advice and useful information to pilots for  a safe and efficient conduct of their flight.
-
-I am currently looking for a role that combines my passion  for aeronautical engineering and my skills in machine learning , geospatial data science and geographic information systems.
-
+Leveraging my background in remote sensing, GIS, meteorology, machine learning and software engineering to drive solutions in agriculture, forestry, weather , climate and  sustainability.
 
 ## Technical Expertise :
 - AI/ML model development using : Pytorch, TensorFlow, Keras, Natural Language Processing (NLP) and Computer Vision (CV).
