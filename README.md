@@ -4,12 +4,12 @@ I am a Geospatial Data Scientist passionate about research in the landscape of D
 During the five recents years, I have consistently delivered compelling solutions for international environmental projects with Partners in Japan, Australia, Madagascar, Cameroon and Tanzania. I possess a proven track record of leveraging machine learning, earth observations and climate data to tackle complex challenges, particularly in agriculture and deforestation. For example, I recently worked as Product Manager in the international project “ Tackling Deforestation in Tanzania using Computer Vision and AI”. In collaboration with partners from Foreign Commonwealth, and Development Office and the National Carbon Monitoring Center, Govt of Tanzania , I lead a team of 15 AI engineers from 11 countries to build a web-based Geospatial application for analyzing deforestation trends in Rufiji Delta Region, Tanzania.
 
 ## Technical Expertise :
-- Programming : Python (Expert) , JavaScript (Intermediate), C/C++(Intermediate)
+- Programming : Python (Expert) , JavaScript (Advanced), C/C++(Intermediate)
 - Databases : PostgreSQL/postGIS, MySQL, MongoDB.
 - Cloud Computing: GEE, Google Colab , AWS, SEPAL, ESA DIAS, Sentinel Hub.
 - Web Mapping: HTML, CSS, JavaScript, Ajax, Geojson, Mapbox, Leaflet, Flask, Django/GeoDjango.
 - Geospatial  Applications: QGIS, GRASS GIS, GeoServer,  Open Drone Map (WEBODM).
-- Automation/Bash Processing: Bash, GDAL/OGR, Rasterio, Fiona, PyQGIS.
+- Automation/Bash Processing: Bash/shell, GDAL/OGR, Rasterio, Fiona, PyQGIS.
 - AI/ML model development : Pytorch, TensorFlow, scikit-learn, Keras, CV, Fastai.
 
 ## Education
