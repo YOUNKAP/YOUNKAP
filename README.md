@@ -3,13 +3,14 @@
 Leveraging my background in remote sensing, GIS, meteorology, machine learning and software engineering to drive solutions in agriculture, forestry, weather , climate and  sustainability.
 
 ## Technical Expertise :
-- AI/ML model development using : Pytorch, TensorFlow, Keras, Natural Language Processing (NLP) and Computer Vision (CV).
-- Survey/LIDAR/Satellite data analysis and management using GIS applications : QGIS, Grass GIS, gvSIG Desktop.
-- Automation/Data Integration using : Bash script, PyQGIS, Python.
-- Programming : Python (Advanced), JavaScript, C/C++,.
-- Web technologies : HTML, CSS, Django/GeoDjango, Flask, Folium, Leaftlet.
-- Databases : PostgreSQL/postGIS, MySQL, SQLite.
-- Working experience in Air Traffic Management (ATM) and Aeronautical Information Management(AIM)
+- Programming : Python (Expert) , JavaScript (Intermediate), C/C++(Intermediate)
+- Databases : PostgreSQL/postGIS, MySQL, MongoDB.
+- Cloud Computing: GEE, Google Colab , AWS, SEPAL, ESA DIAS, Sentinel Hub.
+- Web Mapping: HTML, CSS, JavaScript, Ajax, Geojson, Mapbox, Leaflet, Flask, Django/GeoDjango.
+- Geospatial  Applications: QGIS, GRASS GIS, GeoServer,  Open Drone Map (WEBODM).
+- Automation/Bash Processing: Bash, GDAL/OGR, Rasterio, Fiona, PyQGIS.
+- AI/ML MODEL DEVELOPMENT: Pytorch, TensorFlow, scikit-learn, Keras, CV, Fastai.
+- AI/ML model development using : Pytorch, TensorFlow, Keras, NLP.
 
 ## Education
 - Essentials of Management | UK Met Office & World Meteorological Organisation (WMO) | 2022-2023
