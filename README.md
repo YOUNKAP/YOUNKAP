@@ -24,7 +24,7 @@ During the five recents years, I have consistently delivered compelling solution
 - Essentials of Management | UK Met Office & World Meteorological Organisation (WMO) | 2022-2023
 - Forest and Land Monitoring For Climate Action - SEPAL | FAO | 2023
 - Machine Learning in Weather & Climate | European Centre for Medium-Range Weather Forecasts | 2023
-- ALX-T Full Stack Developer | Udacity | 2022
+- Full Stack Developer | Udacity | 2022
 - Introduction to Machine Learning with Tensorflow | Udacity | 2022
 - Machine learning in Python with scikit-learn | France Université Numérique | 2022
 - AI Programming with Python | Udacity | 2021
