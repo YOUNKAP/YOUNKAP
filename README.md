@@ -13,7 +13,7 @@ During the five recents years, I have consistently delivered compelling solution
 - AI/ML model development : Pytorch, TensorFlow, scikit-learn, Keras, CV, Fastai.
 
 ## Education
-- Advanced Degree in Meteorological Instrumentation & Information Systems | India Meteorological Deparment (IMD) &  WMO | 2021-2022
+- Advanced Degree in Meteorological Instrumentation & Information Systems | India Meteorological Deparment (IMD)&WMO | 2021-2022
 - Diploma in Air Traffic Control | East African School of Aviation of Nairobi (EASA), Kenya | 2019 -2021
 - Master of Enginering in computer Science | National Advanced School of Engineering, Cameroon | 2016-2018
 - Bachelor of Science in Mathematics | Faculty of Science, University of Maroua, Cameroon | 2014-2015
