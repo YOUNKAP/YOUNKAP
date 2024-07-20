@@ -27,7 +27,7 @@ During the recents years, I have consistently delivered compelling solutions for
 - Machine learning in Python with scikit-learn | France Université Numérique | 2022
 - AI Programming with Python | Udacity | 2021
 ### Software Engineering
-- Certified Software Engineer | ALX & Holberton | 2024
+- Certified Software Engineer, Back-end | ALX & Holberton | 2023 - 2024
 - Certified Full Stack Developer | Udacity | 2022
 ### Product Management
 - Certified Product Manager | Udacity | 2023
