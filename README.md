@@ -3,6 +3,9 @@
 I am a Geospatial Data Scientist passionate about research in the landscape of Climate Change  and Remote Sensing. I hold a Master of Engineering Degree in Computer Science and an Advanced Degree in Meteorological Communication, Instrumentation and Information Systems from India Meteorological Department (IMD) & World Meteorological Organization (WMO).
 During the recents years, I have consistently delivered compelling solutions for international environmental projects with Partners in Japan, Australia, Madagascar, Cameroon and Tanzania. I possess a proven track record of leveraging Open Source GIS Technology, Machine Learning, Earth Observations and Climate Data  to tackle complex challenges, particularly in agriculture , deforestation, aviation. For example, I recently worked as Product Manager in the international project “ Tackling Deforestation in Tanzania using Computer Vision and AI”. In collaboration with partners from Foreign Commonwealth, and Development Office and the National Carbon Monitoring Center, Govt of Tanzania , I lead a team of 15 AI engineers from 11 countries to build a web-based Geospatial application for analyzing deforestation trends in Rufiji Delta Region, Tanzania.
 
+## CONSULTING
+In addition, I am currently exploring precision GPS/GNSS with RTKLIB  Open Source Software and Low-Cost GNSS receivers. If you are looking for help with a project involving the integration of  High-Precision GNSS Positioning in your GIS workflows, I am available on a consulting basis. My rates are reasonable as my primary goal is to find interesting projects to work on and continue to improve my understanding of precision GPS/GNSS and GIS. I can help with data collection, data analysis, configuration optimization, Open-Source migration,  tool development, training, or any other challenge related to building highly accurate and actionable geospatial solutions.
+
 ## TECHNICAL EXPERTISE
 - GNSS : Pocket SDR, RTK-LIB, CLASLIB, MADOCALIB, Modified RTKLIB
 - Programming : Python (Expert) , R (Advanced), JavaScript (Intermediate).
@@ -14,7 +17,7 @@ During the recents years, I have consistently delivered compelling solutions for
 - AI/ML model development : Pytorch, TensorFlow, scikit-learn, Keras, CV, Fastai.
 
 ## EDUCATION
-- International GNSS Summer School 2025 | Tokyo University of Marine Science and Technology, Etcyujima Campus (TUMSAT)
+- International GNSS Summer School 2025 | Tokyo University of Marine Science and Technology, Etcyujima Campus (TUMSAT) | 2025
 - Advanced Degree in Meteorological Instrumentation & Information Systems | India Meteorological Deparment (IMD)&WMO | 2021-2022
 - Master of Enginering in computer Science | National Polytechnic School of Engineering, Cameroon | 2016-2018
 - Bachelor of Science in Mathematics | Faculty of Science, University of Maroua, Cameroon | 2014-2015
@@ -45,6 +48,12 @@ During the recents years, I have consistently delivered compelling solutions for
 ### Others
 - Forest and Land Monitoring For Climate Action - SEPAL | FAO | 2023
 - International Training Course on Multi-hazard Early Warning System | Nanjing University of Information Science & Technology | 2023
+
+## HOW TO REACH ME
+- **Email** : <younkapingsead@gmail.com>
+- **Whatsapp** : `+237 693 46 23 95`
+- **[Linkedin](https://www.linkedin.com/in/duplex-younkap-nina-engineer/)**
+- **[Orcid](https://orcid.org/0009-0001-6918-2928)**
 
 <!--
 **YOUNKAP/YOUNKAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
