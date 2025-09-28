@@ -32,8 +32,8 @@ I am currently exploring precision GPS/GNSS with Open Source Software (RTKLIB , 
 - Machine learning in Python with scikit-learn | France Université Numérique | 2022
 - AI Programming with Python | Udacity | 2021
 ### Earth Observation (EO) for Food Security  & Agriculture
-- High-resolution crop monitoring for food security using EO | EO Africa & RD Facility
-- UAVS IN PRECISION AGRICULTURE | University of Twente | 2025
+- High-resolution crop monitoring for food security using EO | EO Africa & RD Facility | 2025
+- UAV IN PRECISION AGRICULTURE | University of Twente | 2025
 - Hyper Temporal Mapping of AgroͲEcosystems & Assessing Land Suitability | EO Africa & RD Facility | 2023
 ### Open Science & Reproducible Research
 - NASA Open Science 101 | NASA | 2025
