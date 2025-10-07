@@ -1,10 +1,14 @@
 ## ABOUT ME
 
-I am a Geospatial Data Scientist passionate about research in the landscape of Climate Change  and Remote Sensing. I hold a Master of Engineering Degree in Computer Science and an Advanced Degree in Meteorological Communication, Instrumentation and Information Systems from India Meteorological Department (IMD) & World Meteorological Organization (WMO).
-During the recents years, I have consistently delivered compelling solutions for international environmental projects with Partners in Japan, Australia, Madagascar, Cameroon and Tanzania. I possess a proven track record of leveraging Open Source GIS Technology, Machine Learning, Earth Observations and Climate Data  to tackle complex challenges, particularly in agriculture , deforestation, aviation. For example, I recently worked as Product Manager in the international project “ Tackling Deforestation in Tanzania using Computer Vision and AI”. In collaboration with partners from Foreign Commonwealth, and Development Office and the National Carbon Monitoring Center, Govt of Tanzania , I lead a team of 15 AI engineers from 11 countries to build a web-based Geospatial application for analyzing deforestation trends in Rufiji Delta Region, Tanzania.
+Leveraging High-Precision GNSS positioning, Remote Sensing (RS), Geographic Information Systems (GIS), and Artificial Intelligence (AI) to drive solutions in Precision Agriculture, Disaster Management, Deforestation Monitoring, Location Intelligence, Infrastructure Planning, Aeronautical Engineering, Climate, and Sustainability.
 
-## CONSULTING
-I am currently exploring precision GPS/GNSS with Python,Open Source Software and Low-Cost GNSS receivers. If you are looking for help with a project involving the integration of  High-Precision GNSS Positioning in your GIS workflows, I am available on a consulting basis. My rates are reasonable as my primary goal is to find interesting projects to work on and continue to improve my understanding of precision GPS/GNSS and GIS. I can help with data collection, data analysis, configuration optimization, Open-Source migration,  tool development, training, or any other challenge related to building highly accurate and actionable geospatial solutions.
+I am a High-Precision GNSS and Air Navigation Systems Specialist with over 15 years of experience in Aeronautical Engineering and Space Operations. Currently serving as an Air Traffic Controller at ASECNA, I have contributed to aviation safety across  Africa.
+
+Besides, I am proficient in GIS tools (Python, QGIS) and cloud computing geospatial platforms (Google Earth Engine, Google Colab, SEPAL, OpenEO) for analyzing big geospatial data from satellites and other sources. Over the past five years, I have also worked as a Geospatial Specialist Consultant at Omdena (US), where I have consistently delivered innovative solutions for international environmental projects with Partners in Japan, Australia,  Madagascar, Tanzania and Cameroon. 
+
+In addition, I am currently exploring precision GPS/GNSS using Python, Open-Source Software, and Low-Cost GNSS receivers. If your project involves integrating High-Precision GNSS positioning into GIS workflows, I am available for Consulting collaborations. I can assist with data processing and analysis, configuration optimization, open-source migration, tool development, training, or other challenges related to building highly accurate and actionable geospatial solutions.
+
+Furthermore, I volunteer with Climatematch Academy, contributing to globally accessible training materials for computational methods in climate science.
 
 ## TECHNICAL EXPERTISE
 - GNSS : Pocket SDR, RTK-LIB, CLASLIB, MADOCALIB, Modified RTKLIB
