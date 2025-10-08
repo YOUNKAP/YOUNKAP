@@ -11,7 +11,7 @@ In addition, I am currently exploring precision GPS/GNSS using Python, Open-Sour
 Furthermore, I volunteer with Climatematch Academy, contributing to globally accessible training materials for computational methods in climate science.
 
 ## TECHNICAL EXPERTISE
-- GNSS : Pocket SDR, RTK-LIB, CLASLIB, MADOCALIB, Modified RTKLIB
+- GNSS : Pocket SDR, GNSS-SDRLIB, RTKLIB, CLASLIB, MADOCALIB
 - Programming : Python (Expert) , R (Advanced), JavaScript (Intermediate).
 - Databases : PostgreSQL/postGIS, MySQL, MongoDB.
 - Cloud Computing: GEE, Google Colab , AWS, SEPAL, ESA DIAS, Sentinel Hub.
