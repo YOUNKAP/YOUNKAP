@@ -1,8 +1,8 @@
 ## ABOUT ME
 
-Leveraging High-Accuracy GNSS positioning, Remote Sensing (RS), Geographic Information Systems (GIS), and Artificial Intelligence (AI) to drive solutions in Precision Agriculture, Disaster Management, Deforestation Monitoring, Location Intelligence, Infrastructure Planning, Aviation Engineering, Climate, and Sustainability.
+Leveraging High-Precision GNSS positioning, Remote Sensing (RS), Geographic Information Systems (GIS), and Artificial Intelligence (AI) to drive solutions in Precision Agriculture, Disaster Management, Deforestation Monitoring, Location Intelligence, Infrastructure Planning, Aviation Engineering, Climate, and Sustainability.
 
-I am a High-Accuracy GNSS and Air Navigation Systems Specialist with over 15 years of experience in Aeronautical Engineering and Space Operations. Currently serving as an Air Traffic Controller at ASECNA, I have contributed to aviation safety across  Africa.
+I am a High-Precision GNSS and Air Navigation Systems Specialist with over 15 years of experience in Aeronautical Engineering and Space Operations. Currently serving as an Air Traffic Controller at ASECNA, I have contributed to aviation safety across  Africa.
 
 Besides, I am proficient in GIS tools (Python, QGIS) and cloud computing geospatial platforms (Google Earth Engine, Google Colab, SEPAL, OpenEO) for analyzing big geospatial data from satellites and other sources. Over the past five years, I have also worked as a Geospatial Specialist Consultant at Omdena (US), where I have consistently delivered innovative solutions for international environmental projects with Partners in Japan, Australia,  Madagascar, Tanzania and Cameroon. 
 
